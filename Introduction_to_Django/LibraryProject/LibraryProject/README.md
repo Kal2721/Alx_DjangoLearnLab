@@ -1,1 +1,1 @@
-First project using Django framework.w
+First project using Django framework.
